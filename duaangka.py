@@ -1,0 +1,6 @@
+a =  float(input("masukan angka yang pertama: "))
+b = float(input("masukan angka yang kedua: "))
+print (f"penjumlahan: {a + b}")
+print (f"pengurangan: {a - b}")
+print (f"perkalian: {a * b}")
+print (f"pembagian: { a / b}")

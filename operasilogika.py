@@ -11,4 +11,5 @@ print(cek_tipe_input(100, 10, 3.14))
 #Tipe input tidak valid
 print(cek_tipe_input("Tes", "20", 2.5)) 
 #Tipe input tidak valid
-print(cek_tipe_input("Python", 5, 2.0)) #Tipe input Valid
+print(cek_tipe_input("Python", 5, 2.0)) 
+#Tipe input Valid

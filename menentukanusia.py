@@ -4,7 +4,7 @@ def penentuan_usia(umur):
     elif 2 <= umur< 5:
         return"Balita"
     elif 5 <= umur< 12:
-        return"Budak budak"
+        return"anak-anak"
     elif 12 <= umur< 18:
         return"Remaja"
     else:

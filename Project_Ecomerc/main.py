@@ -1,6 +1,6 @@
-from ecommerce.pricing import hitung_diskon, hitung_total, hitung_pajak
-from ecommerce.order import generate_order_id
-
+from ecommers.pricing import hitung_diskon, hitung_total, hitung_pajak
+from ecommers.order import generate_order_id
+20
 def main():
     nama_pelanggan = input("masukan nama pelanggan :")
     nama_produk = input("masukan nama produk :")
